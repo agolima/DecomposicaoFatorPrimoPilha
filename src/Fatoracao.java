@@ -22,6 +22,7 @@ public class Fatoracao {
 		}
 		return vetor;
 	}
+	
 	public boolean primos(int i){
 
 		int numDivisores = 0;
